@@ -16,7 +16,7 @@
                         Margin="20,20,20,10">
                 <TextBlock HorizontalAlignment="Right"
                            FontSize="18"
-                           MinWidth="100">Id:</TextBlock>
+                           MinWidth="100">ID:</TextBlock>
                 <TextBox x:Name="txtId" FontSize="18" MinWidth="200"/>
             </StackPanel>
             <StackPanel Orientation="Horizontal"
