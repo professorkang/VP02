@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP02\005_random\bin\Debug\net6.0\005_random.exe
+C:\Users\807PC02\source\repos\VP02\005_random\bin\Debug\net6.0\005_random.deps.json
+C:\Users\807PC02\source\repos\VP02\005_random\bin\Debug\net6.0\005_random.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP02\005_random\bin\Debug\net6.0\005_random.dll
+C:\Users\807PC02\source\repos\VP02\005_random\bin\Debug\net6.0\005_random.pdb
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.dll
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\refint\005_random.dll
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.pdb
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\005_random.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP02\005_random\obj\Debug\net6.0\ref\005_random.dll

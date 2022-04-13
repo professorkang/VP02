@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\020_listBox\bin\Debug\020_listBox.exe.config
+C:\Users\807PC02\source\repos\VP02\020_listBox\bin\Debug\020_listBox.exe
+C:\Users\807PC02\source\repos\VP02\020_listBox\bin\Debug\020_listBox.pdb
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\_020_listBox.Form1.resources
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\_020_listBox.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.exe
+C:\Users\807PC02\source\repos\VP02\020_listBox\obj\Debug\020_listBox.pdb

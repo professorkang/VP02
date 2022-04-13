@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\bin\Debug\net6.0\004_Pyramid.exe
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\bin\Debug\net6.0\004_Pyramid.deps.json
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\bin\Debug\net6.0\004_Pyramid.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\bin\Debug\net6.0\004_Pyramid.dll
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\bin\Debug\net6.0\004_Pyramid.pdb
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.dll
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\refint\004_Pyramid.dll
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.pdb
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\004_Pyramid.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP02\004_Pyramid\obj\Debug\net6.0\ref\004_Pyramid.dll

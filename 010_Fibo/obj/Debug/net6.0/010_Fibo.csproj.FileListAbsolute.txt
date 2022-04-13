@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP02\010_Fibo\bin\Debug\net6.0\010_Fibo.exe
+C:\Users\807PC02\source\repos\VP02\010_Fibo\bin\Debug\net6.0\010_Fibo.deps.json
+C:\Users\807PC02\source\repos\VP02\010_Fibo\bin\Debug\net6.0\010_Fibo.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP02\010_Fibo\bin\Debug\net6.0\010_Fibo.dll
+C:\Users\807PC02\source\repos\VP02\010_Fibo\bin\Debug\net6.0\010_Fibo.pdb
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.dll
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\refint\010_Fibo.dll
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.pdb
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\010_Fibo.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP02\010_Fibo\obj\Debug\net6.0\ref\010_Fibo.dll

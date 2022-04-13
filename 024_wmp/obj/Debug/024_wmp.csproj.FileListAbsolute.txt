@@ -1,0 +1,16 @@
+C:\Users\807PC02\source\repos\VP02\024_wmp\bin\Debug\024_wmp.exe.config
+C:\Users\807PC02\source\repos\VP02\024_wmp\bin\Debug\024_wmp.exe
+C:\Users\807PC02\source\repos\VP02\024_wmp\bin\Debug\024_wmp.pdb
+C:\Users\807PC02\source\repos\VP02\024_wmp\bin\Debug\Interop.WMPLib.dll
+C:\Users\807PC02\source\repos\VP02\024_wmp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\Interop.WMPLib.dll
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.csproj.ResolveComReference.cache
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\_024_wmp.Form1.resources
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\_024_wmp.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.exe
+C:\Users\807PC02\source\repos\VP02\024_wmp\obj\Debug\024_wmp.pdb

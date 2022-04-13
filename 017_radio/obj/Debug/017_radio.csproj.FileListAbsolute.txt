@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\017_radio\bin\Debug\017_radio.exe.config
+C:\Users\807PC02\source\repos\VP02\017_radio\bin\Debug\017_radio.exe
+C:\Users\807PC02\source\repos\VP02\017_radio\bin\Debug\017_radio.pdb
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\_017_radio.Form1.resources
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\_017_radio.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.exe
+C:\Users\807PC02\source\repos\VP02\017_radio\obj\Debug\017_radio.pdb

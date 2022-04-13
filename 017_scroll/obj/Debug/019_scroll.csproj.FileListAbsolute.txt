@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\017_scroll\bin\Debug\017_scroll.exe.config
+C:\Users\807PC02\source\repos\VP02\017_scroll\bin\Debug\017_scroll.exe
+C:\Users\807PC02\source\repos\VP02\017_scroll\bin\Debug\017_scroll.pdb
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\019_scroll.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\019_scroll.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\_017_scroll.Form1.resources
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\_017_scroll.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\019_scroll.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\019_scroll.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\017_scroll.exe
+C:\Users\807PC02\source\repos\VP02\017_scroll\obj\Debug\017_scroll.pdb

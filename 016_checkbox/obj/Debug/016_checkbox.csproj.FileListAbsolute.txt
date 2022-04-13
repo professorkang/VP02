@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\016_checkbox\bin\Debug\016_checkbox.exe.config
+C:\Users\807PC02\source\repos\VP02\016_checkbox\bin\Debug\016_checkbox.exe
+C:\Users\807PC02\source\repos\VP02\016_checkbox\bin\Debug\016_checkbox.pdb
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\_016_checkbox.Form1.resources
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\_016_checkbox.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.exe
+C:\Users\807PC02\source\repos\VP02\016_checkbox\obj\Debug\016_checkbox.pdb

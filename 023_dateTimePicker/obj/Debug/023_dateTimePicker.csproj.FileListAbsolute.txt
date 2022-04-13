@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\bin\Debug\023_dateTimePicker.exe.config
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\bin\Debug\023_dateTimePicker.exe
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\bin\Debug\023_dateTimePicker.pdb
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\_023_dateTimePicker.Form1.resources
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\_023_dateTimePicker.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.exe
+C:\Users\807PC02\source\repos\VP02\023_dateTimePicker\obj\Debug\023_dateTimePicker.pdb

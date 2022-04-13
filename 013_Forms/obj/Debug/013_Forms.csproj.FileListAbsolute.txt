@@ -1,0 +1,12 @@
+C:\Users\807PC02\source\repos\VP02\013_Forms\bin\Debug\013_Forms.exe.config
+C:\Users\807PC02\source\repos\VP02\013_Forms\bin\Debug\013_Forms.exe
+C:\Users\807PC02\source\repos\VP02\013_Forms\bin\Debug\013_Forms.pdb
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\_013_Forms.Form1.resources
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\_013_Forms.Form2.resources
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\_013_Forms.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.exe
+C:\Users\807PC02\source\repos\VP02\013_Forms\obj\Debug\013_Forms.pdb

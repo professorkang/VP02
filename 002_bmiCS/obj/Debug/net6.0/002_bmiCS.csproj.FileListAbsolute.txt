@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\bin\Debug\net6.0\002_bmiCS.exe
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\bin\Debug\net6.0\002_bmiCS.deps.json
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\bin\Debug\net6.0\002_bmiCS.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\bin\Debug\net6.0\002_bmiCS.dll
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\bin\Debug\net6.0\002_bmiCS.pdb
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.dll
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\refint\002_bmiCS.dll
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.pdb
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\002_bmiCS.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP02\002_bmiCS\obj\Debug\net6.0\ref\002_bmiCS.dll

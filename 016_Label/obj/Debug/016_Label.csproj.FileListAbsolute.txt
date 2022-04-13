@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\016_Label\bin\Debug\016_Label.exe.config
+C:\Users\807PC02\source\repos\VP02\016_Label\bin\Debug\016_Label.exe
+C:\Users\807PC02\source\repos\VP02\016_Label\bin\Debug\016_Label.pdb
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\_016_Label.Form1.resources
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\_016_Label.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.exe
+C:\Users\807PC02\source\repos\VP02\016_Label\obj\Debug\016_Label.pdb

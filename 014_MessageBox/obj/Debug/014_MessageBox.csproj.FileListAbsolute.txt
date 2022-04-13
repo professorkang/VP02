@@ -1,0 +1,10 @@
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\bin\Debug\014_MessageBox.exe.config
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\bin\Debug\014_MessageBox.exe
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\bin\Debug\014_MessageBox.pdb
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\_014_MessageBox.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.exe
+C:\Users\807PC02\source\repos\VP02\014_MessageBox\obj\Debug\014_MessageBox.pdb

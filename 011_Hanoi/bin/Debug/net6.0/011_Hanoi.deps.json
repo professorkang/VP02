@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "011_Hanoi/1.0.0": {
+        "runtime": {
+          "011_Hanoi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011_Hanoi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

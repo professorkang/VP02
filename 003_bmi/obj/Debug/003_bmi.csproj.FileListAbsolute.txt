@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\003_bmi\bin\Debug\003_bmi.exe.config
+C:\Users\807PC02\source\repos\VP02\003_bmi\bin\Debug\003_bmi.exe
+C:\Users\807PC02\source\repos\VP02\003_bmi\bin\Debug\003_bmi.pdb
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\_003_bmi.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.exe
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\003_bmi.pdb
+C:\Users\807PC02\source\repos\VP02\003_bmi\obj\Debug\_003_bmi.Form1.resources

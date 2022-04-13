@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\012_Hello\bin\Debug\012_Hello.exe.config
+C:\Users\807PC02\source\repos\VP02\012_Hello\bin\Debug\012_Hello.exe
+C:\Users\807PC02\source\repos\VP02\012_Hello\bin\Debug\012_Hello.pdb
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\_012_Hello.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.exe
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\012_Hello.pdb
+C:\Users\807PC02\source\repos\VP02\012_Hello\obj\Debug\_012_Hello.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\bin\Debug\021_ScoreCal.exe.config
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\bin\Debug\021_ScoreCal.exe
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\bin\Debug\021_ScoreCal.pdb
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\_021_ScoreCal.Form1.resources
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\_021_ScoreCal.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.exe
+C:\Users\807PC02\source\repos\VP02\021_ScoreCal\obj\Debug\021_ScoreCal.pdb

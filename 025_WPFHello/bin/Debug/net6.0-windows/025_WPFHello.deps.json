@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "025_WPFHello/1.0.0": {
+        "runtime": {
+          "025_WPFHello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "025_WPFHello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\807PC02\source\repos\VP02\008_factorial\bin\Debug\net6.0\008_factorial.exe
+C:\Users\807PC02\source\repos\VP02\008_factorial\bin\Debug\net6.0\008_factorial.deps.json
+C:\Users\807PC02\source\repos\VP02\008_factorial\bin\Debug\net6.0\008_factorial.runtimeconfig.json
+C:\Users\807PC02\source\repos\VP02\008_factorial\bin\Debug\net6.0\008_factorial.dll
+C:\Users\807PC02\source\repos\VP02\008_factorial\bin\Debug\net6.0\008_factorial.pdb
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.AssemblyInfoInputs.cache
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.AssemblyInfo.cs
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.dll
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\refint\008_factorial.dll
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.pdb
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\008_factorial.genruntimeconfig.cache
+C:\Users\807PC02\source\repos\VP02\008_factorial\obj\Debug\net6.0\ref\008_factorial.dll
