@@ -8,26 +8,35 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\807PC02\\.nuget\\packages\\": {}
+    "C:\\Users\\konyang\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\807PC02\\source\\repos\\VP02\\026_grid\\026_grid.csproj",
+      "projectUniqueName": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP02\\026_grid\\026_grid.csproj",
       "projectName": "026_grid",
-      "projectPath": "C:\\Users\\807PC02\\source\\repos\\VP02\\026_grid\\026_grid.csproj",
-      "packagesPath": "C:\\Users\\807PC02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\807PC02\\source\\repos\\VP02\\026_grid\\obj\\",
+      "projectPath": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP02\\026_grid\\026_grid.csproj",
+      "packagesPath": "C:\\Users\\konyang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\konyang\\OneDrive - 건양대학교\\문서\\GitHub\\VP02\\026_grid\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\807PC02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\konyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +72,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
