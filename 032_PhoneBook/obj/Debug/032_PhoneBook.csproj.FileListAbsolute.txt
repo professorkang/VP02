@@ -1,0 +1,11 @@
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\bin\Debug\032_PhoneBook.exe.config
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\bin\Debug\032_PhoneBook.exe
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\bin\Debug\032_PhoneBook.pdb
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\_032_PhoneBook.Form1.resources
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\_032_PhoneBook.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.exe
+C:\Users\807PC02\source\repos\VP02\032_PhoneBook\obj\Debug\032_PhoneBook.pdb
