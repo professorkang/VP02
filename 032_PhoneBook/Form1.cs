@@ -102,11 +102,7 @@ namespace _032_PhoneBook
         txtPhone.Text == "")
         return;
 
-      if (conn == null)
-      {
-        conn = new OleDbConnection(connStr);
-        conn.Open();
-      }
+      ConnOpen();
 
       string sql
         = string.Format("INSERT INTO StudentTable(SId, SName, Phone) VALUES({0}, '{1}','{2}')",
@@ -117,11 +113,118 @@ namespace _032_PhoneBook
       if (x == 1)
         MessageBox.Show("정상 삽입!");
 
+      ConnClose();
+    }
+
+    private void ConnClose()
+    {
       conn.Close();
       conn = null;
 
       lbStudent.Items.Clear();
       ShowStudents();
+    }
+
+    private void ConnOpen()
+    {
+      if (conn == null)
+      {
+        conn = new OleDbConnection(connStr);
+        conn.Open();
+      }
+    }
+
+    private void btnDelete_Click(object sender, EventArgs e)
+    {
+      if (txtID.Text == "")
+        return;
+      
+      ConnOpen();
+
+      string sql = string.Format(
+        "DELETE FROM StudentTable WHERE ID={0}",
+        txtID.Text);
+      comm = new OleDbCommand(sql,conn);
+      int x = comm.ExecuteNonQuery();
+      if (x == 1)
+        MessageBox.Show("삭제 성공!");
+
+      ConnClose();
+    }
+
+    private void btnUpdate_Click(object sender, EventArgs e)
+    {
+      ConnOpen();
+
+      string sql = string.Format(
+        "UPDATE StudentTable "
+        + "SET SId={0}, SName='{1}',Phone='{2}'" 
+        + "WHERE ID={3}",
+        txtSId.Text, txtSName.Text, txtPhone.Text, txtID.Text);
+      comm=new OleDbCommand(sql,conn);
+      int x = comm.ExecuteNonQuery();
+      if (x == 1)
+        MessageBox.Show("수정 성공!");
+
+      ConnClose();
+    }
+
+    // 검색
+    private void btnSearch_Click(object sender, EventArgs e)
+    {
+      if (txtSId.Text == ""
+        && txtSName.Text == ""
+        && txtPhone.Text == "")
+        return;
+
+      ConnOpen();
+
+      string sql = "SELECT * FROM StudentTable ";
+      if (txtSId.Text != "")
+        sql += "WHERE SId = " + txtSId.Text;
+      else if (txtSName.Text != "")
+        sql += "WHERE SName = '" + txtSName.Text + "'";
+      else if(txtPhone.Text != "")
+        sql += "WHERE Phone = '" + txtPhone.Text + "'";
+
+      MessageBox.Show(sql);
+
+      comm = new OleDbCommand(sql,conn);
+
+      lbStudent.Items.Clear();
+      reader = comm.ExecuteReader();
+      while (reader.Read())
+      {
+        string x = "";
+        x += reader["ID"] + "\t";
+        x += reader["SId"] + "\t";
+        x += reader["SName"] + "\t";
+        x += reader["Phone"];
+        lbStudent.Items.Add(x);
+      }
+      reader.Close();
+
+      conn.Close();
+      conn = null;
+    }
+
+    private void btnClear_Click(object sender, EventArgs e)
+    {
+      txtID.Text = "";
+      txtSName.Text = "";
+      txtSId.Text = "";
+      txtPhone.Text = "";
+    }
+
+    private void btnAll_Click(object sender, EventArgs e)
+    {
+      lbStudent.Items.Clear();
+      ShowStudents();
+    }
+
+    private void btnExit_Click(object sender, EventArgs e)
+    {
+      Close();
     }
   }
 }
