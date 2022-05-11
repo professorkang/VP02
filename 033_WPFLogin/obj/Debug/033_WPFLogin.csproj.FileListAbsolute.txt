@@ -1,0 +1,16 @@
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\bin\Debug\033_WPFLogin.exe.config
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\bin\Debug\033_WPFLogin.exe
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\bin\Debug\033_WPFLogin.pdb
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.AssemblyReference.cache
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\MainWindow.g.cs
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\App.g.cs
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin_MarkupCompile.cache
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin_MarkupCompile.lref
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\MainWindow.baml
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.g.resources
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\_033_WPFLogin.Properties.Resources.resources
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.GenerateResource.cache
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.CoreCompileInputs.cache
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.exe
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.pdb
