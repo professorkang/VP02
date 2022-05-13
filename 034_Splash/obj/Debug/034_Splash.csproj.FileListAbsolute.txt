@@ -14,3 +14,9 @@ C:\Users\807PC02\source\repos\VP02\034_Splash\obj\Debug\034_Splash.csproj.Genera
 C:\Users\807PC02\source\repos\VP02\034_Splash\obj\Debug\034_Splash.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP02\034_Splash\obj\Debug\034_Splash.exe
 C:\Users\807PC02\source\repos\VP02\034_Splash\obj\Debug\034_Splash.pdb
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\034_Splash.csproj.AssemblyReference.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\034_Splash.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\App.g.cs
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\034_Splash_MarkupCompile.cache
+C:\Users\konyang\OneDrive - 건양대학교\문서\GitHub\VP02\034_Splash\obj\Debug\034_Splash_MarkupCompile.lref
