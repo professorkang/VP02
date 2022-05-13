@@ -52,7 +52,7 @@ namespace _034_Splash
         colors[i] = (byte)(r.Next(256));
         borderList[i].Background
           = new SolidColorBrush(
-            Color.FromRgb((byte)0, (byte)0, colors[i]));
+            Color.FromRgb(colors[i], (byte)0, (byte)0));
       }
 
       string s = "";
