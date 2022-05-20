@@ -14,3 +14,6 @@ C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.Ge
 C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.csproj.CoreCompileInputs.cache
 C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.exe
 C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin.pdb
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\bin\Debug\Login.mdf
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\bin\Debug\Login_log.ldf
+C:\Users\807PC02\source\repos\VP02\033_WPFLogin\obj\Debug\033_WPFLogin_Content.g.cs

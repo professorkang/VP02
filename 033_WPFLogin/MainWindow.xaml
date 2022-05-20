@@ -18,7 +18,7 @@
       <TextBox x:Name="txtUserName" FontSize="16"/>
       <TextBlock Text="Password" FontSize="16" 
                  Margin="0,5"/>
-      <TextBox x:Name="txtPassword" FontSize="16"/>
+      <PasswordBox x:Name="txtPassword" FontSize="16"/>
       <Button x:Name="btnLogin" Content="로그인"
               FontSize="16" Width="100" 
               Margin="10,20" Click="btnLogin_Click"/>
