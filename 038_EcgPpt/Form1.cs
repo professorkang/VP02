@@ -36,6 +36,7 @@ namespace _038_EcgPpt
 
     int cursorX = 0;  // 디스플레이되는 데이터의 시작점
     bool scrolling = false; // true 일 때 스크롤
+    private int speed = 2;
 
     private void T_Tick(object sender, EventArgs e)
     {
@@ -45,7 +46,7 @@ namespace _038_EcgPpt
           cursorX, cursorX + dataCount);
       else
         t.Stop();
-      cursorX += 2;
+      cursorX += speed;
     }
 
     private void ChartSetting()
@@ -206,6 +207,27 @@ namespace _038_EcgPpt
     private void dataCountToolStripMenuItem1_Click(object sender, EventArgs e)
     {
       dataCount = dataCount / 2;
+    }
+
+    // 차트에서 zoom 했을 때
+    private void ch_SelectionRangeChanged(object sender, 
+      CursorEventArgs e)
+    {
+      int min = (int)(ch.ChartAreas[0].AxisX.ScaleView.ViewMinimum);
+      int max = (int)(ch.ChartAreas[0].AxisX.ScaleView.ViewMaximum);
+
+      cursorX = min;
+      dataCount = max - min;
+    }
+
+    private void speedUpToolStripMenuItem_Click(object sender, EventArgs e)
+    {
+      speed *= 2;
+    }
+
+    private void speedDownToolStripMenuItem_Click(object sender, EventArgs e)
+    {
+      speed /= 2;
     }
   }
 }

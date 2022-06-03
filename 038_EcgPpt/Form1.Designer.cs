@@ -28,36 +28,40 @@
     /// </summary>
     private void InitializeComponent()
     {
-      System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-      System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-      System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+      System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+      System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+      System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
       this.ch = new System.Windows.Forms.DataVisualization.Charting.Chart();
       this.menuStrip1 = new System.Windows.Forms.MenuStrip();
       this.viewAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.autoScrollToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-      this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.dataCountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.dataCountToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+      this.speedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+      this.speedUpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+      this.speedDownToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+      this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       ((System.ComponentModel.ISupportInitialize)(this.ch)).BeginInit();
       this.menuStrip1.SuspendLayout();
       this.SuspendLayout();
       // 
       // ch
       // 
-      chartArea3.Name = "ChartArea1";
-      this.ch.ChartAreas.Add(chartArea3);
+      chartArea1.Name = "ChartArea1";
+      this.ch.ChartAreas.Add(chartArea1);
       this.ch.Dock = System.Windows.Forms.DockStyle.Fill;
-      legend3.Name = "Legend1";
-      this.ch.Legends.Add(legend3);
+      legend1.Name = "Legend1";
+      this.ch.Legends.Add(legend1);
       this.ch.Location = new System.Drawing.Point(0, 24);
       this.ch.Name = "ch";
-      series3.ChartArea = "ChartArea1";
-      series3.Legend = "Legend1";
-      series3.Name = "Series1";
-      this.ch.Series.Add(series3);
+      series1.ChartArea = "ChartArea1";
+      series1.Legend = "Legend1";
+      series1.Name = "Series1";
+      this.ch.Series.Add(series1);
       this.ch.Size = new System.Drawing.Size(800, 426);
       this.ch.TabIndex = 0;
       this.ch.Text = "chart1";
+      this.ch.SelectionRangeChanged += new System.EventHandler<System.Windows.Forms.DataVisualization.Charting.CursorEventArgs>(this.ch_SelectionRangeChanged);
       this.ch.Click += new System.EventHandler(this.ch_Click);
       this.ch.MouseClick += new System.Windows.Forms.MouseEventHandler(this.ch_MouseClick);
       // 
@@ -66,6 +70,7 @@
       this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.viewAllToolStripMenuItem,
             this.autoScrollToolStripMenuItem,
+            this.speedToolStripMenuItem,
             this.exitToolStripMenuItem});
       this.menuStrip1.Location = new System.Drawing.Point(0, 0);
       this.menuStrip1.Name = "menuStrip1";
@@ -90,26 +95,49 @@
       this.autoScrollToolStripMenuItem.Text = "Auto Scroll";
       this.autoScrollToolStripMenuItem.Click += new System.EventHandler(this.autoScrollToolStripMenuItem_Click);
       // 
-      // exitToolStripMenuItem
-      // 
-      this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-      this.exitToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
-      this.exitToolStripMenuItem.Text = "Exit";
-      this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
-      // 
       // dataCountToolStripMenuItem
       // 
       this.dataCountToolStripMenuItem.Name = "dataCountToolStripMenuItem";
-      this.dataCountToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+      this.dataCountToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
       this.dataCountToolStripMenuItem.Text = "DataCount++";
       this.dataCountToolStripMenuItem.Click += new System.EventHandler(this.dataCountToolStripMenuItem_Click);
       // 
       // dataCountToolStripMenuItem1
       // 
       this.dataCountToolStripMenuItem1.Name = "dataCountToolStripMenuItem1";
-      this.dataCountToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+      this.dataCountToolStripMenuItem1.Size = new System.Drawing.Size(148, 22);
       this.dataCountToolStripMenuItem1.Text = "DataCount--";
       this.dataCountToolStripMenuItem1.Click += new System.EventHandler(this.dataCountToolStripMenuItem1_Click);
+      // 
+      // speedToolStripMenuItem
+      // 
+      this.speedToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.speedUpToolStripMenuItem,
+            this.speedDownToolStripMenuItem});
+      this.speedToolStripMenuItem.Name = "speedToolStripMenuItem";
+      this.speedToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+      this.speedToolStripMenuItem.Text = "Speed";
+      // 
+      // speedUpToolStripMenuItem
+      // 
+      this.speedUpToolStripMenuItem.Name = "speedUpToolStripMenuItem";
+      this.speedUpToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+      this.speedUpToolStripMenuItem.Text = "Speed Up";
+      this.speedUpToolStripMenuItem.Click += new System.EventHandler(this.speedUpToolStripMenuItem_Click);
+      // 
+      // speedDownToolStripMenuItem
+      // 
+      this.speedDownToolStripMenuItem.Name = "speedDownToolStripMenuItem";
+      this.speedDownToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+      this.speedDownToolStripMenuItem.Text = "Speed Down";
+      this.speedDownToolStripMenuItem.Click += new System.EventHandler(this.speedDownToolStripMenuItem_Click);
+      // 
+      // exitToolStripMenuItem
+      // 
+      this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+      this.exitToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
+      this.exitToolStripMenuItem.Text = "Exit";
+      this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
       // 
       // Form1
       // 
@@ -138,6 +166,9 @@
     private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
     private System.Windows.Forms.ToolStripMenuItem dataCountToolStripMenuItem;
     private System.Windows.Forms.ToolStripMenuItem dataCountToolStripMenuItem1;
+    private System.Windows.Forms.ToolStripMenuItem speedToolStripMenuItem;
+    private System.Windows.Forms.ToolStripMenuItem speedUpToolStripMenuItem;
+    private System.Windows.Forms.ToolStripMenuItem speedDownToolStripMenuItem;
   }
 }
 
