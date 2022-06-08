@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5F918BA-A0EE-49DC-B355-D96BD35CAA5B}</ProjectGuid>
+    <ProjectGuid>{193862DB-FD43-4159-8D7E-9A30218C0399}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_040_FormClock</RootNamespace>
     <AssemblyName>040_FormClock</AssemblyName>
