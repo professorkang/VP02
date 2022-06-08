@@ -33,8 +33,8 @@
       this.보기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.아날로그ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.디지털ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-      this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+      this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.옵션ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
       this.panel1.SuspendLayout();
       this.menuStrip1.SuspendLayout();
@@ -76,23 +76,26 @@
       this.아날로그ToolStripMenuItem.Name = "아날로그ToolStripMenuItem";
       this.아날로그ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
       this.아날로그ToolStripMenuItem.Text = "아날로그";
+      this.아날로그ToolStripMenuItem.Click += new System.EventHandler(this.아날로그ToolStripMenuItem_Click);
       // 
       // 디지털ToolStripMenuItem
       // 
       this.디지털ToolStripMenuItem.Name = "디지털ToolStripMenuItem";
       this.디지털ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
       this.디지털ToolStripMenuItem.Text = "디지털";
+      this.디지털ToolStripMenuItem.Click += new System.EventHandler(this.디지털ToolStripMenuItem_Click);
+      // 
+      // toolStripSeparator1
+      // 
+      this.toolStripSeparator1.Name = "toolStripSeparator1";
+      this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
       // 
       // 종료ToolStripMenuItem
       // 
       this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
       this.종료ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
       this.종료ToolStripMenuItem.Text = "종료";
-      // 
-      // toolStripSeparator1
-      // 
-      this.toolStripSeparator1.Name = "toolStripSeparator1";
-      this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+      this.종료ToolStripMenuItem.Click += new System.EventHandler(this.종료ToolStripMenuItem_Click);
       // 
       // 옵션ToolStripMenuItem
       // 
