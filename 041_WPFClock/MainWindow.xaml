@@ -6,9 +6,33 @@
         xmlns:local="clr-namespace:_041_WPFClock"
         mc:Ignorable="d"
         Title="WPF Clock" Height="350" Width="350">
-  <Grid Margin="10">
-    <Canvas x:Name="canvas1" Width="250" Height="250">
-      <Ellipse x:Name="aClock" Width="250" Height="250"/>
-    </Canvas>
-  </Grid>
+  <StackPanel>
+    <Menu>
+      <MenuItem Header="보기">
+        <MenuItem Header="아날로그" Click="Analog_Clcik"/>
+        <MenuItem Header="디지털" Click="Digital_Clcik"/>
+        <Separator/>
+        <MenuItem Header="종료" Click="Exit_Clcik"/>
+      </MenuItem>
+      <MenuItem Header="옵션">
+        <MenuItem Header="초단 위" Click="Sec_Clcik"/>
+        <MenuItem Header="밀리초 단위" Click="MSec_Clcik"/>
+      </MenuItem>
+    </Menu>
+    <Grid Margin="10">
+      <Canvas x:Name="canvas1" Width="250" Height="250">
+        <Ellipse x:Name="aClock" Width="250" Height="250"/>
+      </Canvas>
+      <TextBlock x:Name="txtDate" 
+                 FontFamily="맑은 고딕"
+                 FontSize="15" Margin="15, 50"
+                 Foreground="OrangeRed"/>
+      <TextBlock x:Name="txtTime"
+                 FontFamily="맑은 고딕"
+                 FontSize="40"
+                 HorizontalAlignment="Center"
+                 VerticalAlignment="Center"
+                 Foreground="RoyalBlue"/>
+    </Grid>
+  </StackPanel>
 </Window>
