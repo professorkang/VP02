@@ -7,22 +7,20 @@
         mc:Ignorable="d"
         Title="SnakeBite" Height="350" Width="525">
   <Grid>
-    <Image Source="Images/Tulips.jpg" Stretch="Fill"/>
+    <Image Source="Images/Tulips.jpg"
+           Stretch="Fill"/>
     <Button x:Name="btnPlay" Content="Play" 
             HorizontalAlignment="Left" 
-            Margin="117,242,0,0" 
+            Margin="126,250,0,0" 
             VerticalAlignment="Top" 
-            Height="41" Width="100"
+            Height="38" Width="75"
             Click="btnPlay_Click"/>
     <Button x:Name="btnQuit" Content="Quit" 
             HorizontalAlignment="Left" 
-            Margin="313,242,0,0" 
+            Margin="323,250,0,0" 
             VerticalAlignment="Top" 
-            Height="41" Width="100"
+            Height="38" Width="75"
             Click="btnQuit_Click"/>
-    <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="50,20,0,0" 
-               TextWrapping="Wrap" 
-               Text="SnakeBite 1.0 by bikang" VerticalAlignment="Top"/>
 
   </Grid>
 </Window>

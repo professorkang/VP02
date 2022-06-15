@@ -27,9 +27,8 @@ namespace _043_SnakeBite
 
     private void btnPlay_Click(object sender, RoutedEventArgs e)
     {
-      Game game = new Game();
+      Game game= new Game();
       game.Show();
-
     }
 
     private void btnQuit_Click(object sender, RoutedEventArgs e)

@@ -5,14 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_043_SnakeBite"
         mc:Ignorable="d"
-        Title="Game" Height="400" Width="480"
-        KeyDown="Window_KeyDown_1">
-  <Canvas x:Name="field" Width="480" Height="380"
-          Background="LightSteelBlue">
-    <TextBlock x:Name="txtScore" Margin="10" 
-               Canvas.Left="200"
-               Text="Score = 0"/>
-    <TextBlock x:Name="txtTime" Margin="10" 
-               Canvas.Left="270"/>
+        Title="Game" Height="340" Width="420"
+        KeyDown="Window_KeyDown">
+  <Canvas x:Name="field" 
+            Width="400" Height="300" 
+            Background="LightSteelBlue">
+    <TextBlock x:Name="txtScore" Text="Eggs=0"
+               Canvas.Left="200" Margin="10"/>
+    <TextBlock x:Name="txtTime" Text=""
+               Canvas.Left="270" Margin="10"/>
   </Canvas>
 </Window>
